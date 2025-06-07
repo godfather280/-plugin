@@ -1,6 +1,6 @@
 # PbxBot v3 Plugins
 
-# Follow this format to make your own plugin for PbxBot.
+# Follow this format to make your own plugin for🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.
 
 ```python3
 """
@@ -33,11 +33,11 @@ from . import on_message, 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭, HelpMenu
 @on_message("hii", allow_stan=True)
 async def hi(_, message):
     # command body
-    msg = await Pbxbot.input(message)
+    msg = await 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.input(message)
     if msg:
-        await Pbxbot.edit(message, f"Hello! {msg}")
+        await 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.edit(message, f"Hello! {msg}")
     else:
-        await Pbxbot.edit(message, "Hello!")
+        await 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.edit(message, "Hello!")
 
 
 # to display in help menu
