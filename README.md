@@ -7,7 +7,7 @@
 A sample code to display hello without taking input.
 """
 # this is a mandatory import
-from . import on_message, Pbxbot, HelpMenu
+from . import on_message, 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭, HelpMenu
 
 # assigning command
 @on_message("hii")
@@ -27,7 +27,7 @@ HelpMenu("hii").add(
 A sample code to display hello with input.
 """
 # this is a mandatory import
-from . import on_message, Pbxbot, HelpMenu
+from . import on_message, 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭, HelpMenu
 
 # assigning command
 @on_message("hii", allow_stan=True)
