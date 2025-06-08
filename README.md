@@ -1,4 +1,4 @@
-# PbxBot v3 Plugins
+# 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭 v3 Plugins
 
 # Follow this format to make your own plugin for🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.
 
