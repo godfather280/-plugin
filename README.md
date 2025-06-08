@@ -1,50 +1,32 @@
-# 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭 v3 Plugins
+<h2 align="center">
+    「 ❣️ʙᴀᴅ ᴘʙxʙᴏᴛ ❣️ 」
+</h2>
+<a href="https://youtu.be/0hP_JY_APq0?si=md6qsZQP2UaQ-SPn"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-# Follow this format to make your own plugin for🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.
+<p align="center"><a href="https://t.me/ll_BAD_MUNDA_ll"><img src="https://telegra.ph/file/3df11bcade4a69a6335f2.jpg"></a></p>
 
-```python3
-"""
-A sample code to display hello without taking input.
-"""
-# this is a mandatory import
-from . import on_message, 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭, HelpMenu
-
-# assigning command
-@on_message("hii")
-async def hi(_, message):
-    # command body
-    await Pbxbot.edit(message, "Hello!")
+<a href="https://youtu.be/0hP_JY_APq0?si=md6qsZQP2UaQ-SPn"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-# to display in help menu
-HelpMenu("hii").add(
-  "hii", None, "Says Hello!"
-).done()
-```
+        •━━━━━━━━•••━━━━━━━━•
 
-```python3
-"""
-A sample code to display hello with input.
-"""
-# this is a mandatory import
-from . import on_message, 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭, HelpMenu
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=MADE+BYE+BADMUNDA%E2%9D%A4%EF%B8%8F"> 
 
-# assigning command
-@on_message("hii", allow_stan=True)
-async def hi(_, message):
-    # command body
-    msg = await 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.input(message)
-    if msg:
-        await 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.edit(message, f"Hello! {msg}")
-    else:
-        await 🕷️𝐒𝐩𝐢𝐝𝐞✘𝐛𝐨𝐭.edit(message, "Hello!")
+        •━━━━━━━━•••━━━━━━━━•
 
 
-# to display in help menu
-HelpMenu("hii").add(
-    "hii", "<text>", "Display Hello with a input!"
-).done()
-```
+<h3 align="center">
+    ─「 ❣👇sᴘᴇᴄɪᴀʟ❣️ɢᴍᴜᴛᴇ👇 」─   
+</h3>
 
+<h3 align="center">
+    ─「 ❣️ɢʙᴀɴ❣️ 」─   
+</h3>
 
-## To get more functions read codes in repo.
+<h3 align="center">
+    ─「 ❣️ʀᴀɪᴅ❣️ 」─   
+</h3>
+
+<h3 align="center">
+    ─「 ❣️sʜᴀʏᴀʀɪ❣️ 」─   
+</h3>
